@@ -9,8 +9,9 @@
 <Br>
 
 ## Study Log 
+<!--
 <a href="https://velog.io/@yes01" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-
+-->
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yes-ee&show_icons=true&theme=vue) -->
