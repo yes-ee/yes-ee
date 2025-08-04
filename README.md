@@ -6,15 +6,18 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=80) -->
 
 ### Hi I'm Yeseul 🙌
-🌱 I’m currently learning **Backend**
+🌱 I’m currently learning **Backend, Cloud, DevOps**
 
 
 #### 📗 Education
 `2020.03 -` Soongsil University, Computer Science & Engineering
 <br>
-`2022.03 - 2023.12` 42 Seoul Cadet
+`2022.03 - 2023.12` 42 Seoul Cadet 6th
 <br>
 `2024.01 -` 42 Seoul Member
+<br>
+`2024.09 -` AWS Cloud Clubs Soongsil 2nd
+
 
 
 
