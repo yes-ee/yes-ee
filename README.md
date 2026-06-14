@@ -17,8 +17,8 @@
 `2024.01 -` 42 Seoul Member
 <br>
 `2024.09 -` AWS Cloud Clubs Soongsil 2nd
-
-
+<br>
+`2025.05 - 2025.11` HYUNDAI AUTOEVER Mobility SW School 2nd
 
 
 
